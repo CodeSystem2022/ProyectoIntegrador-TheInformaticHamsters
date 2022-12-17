@@ -87,4 +87,4 @@
 
 ---
 
-<b>Proyecto anterior (PSeInt): <a href="https://github.com/Nico-Segovia/ProjectParking" target="_blank">**Parking 1.0**</a></b>
+<b>Proyecto anterior (PSeInt): <a href="https://github.com/Nico-Segovia/ProjectPSeInt-Parking1.0" target="_blank">**Parking 1.0**</a></b>
